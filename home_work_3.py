@@ -15,7 +15,7 @@ def duplicate_num(list: int) -> list[int]:
     return list_2
 
 list_1 = [1, 2, 3, 2, 5, 1, 6, 2, 4, 1, 5, 8, 7, 9, 7, 0]
-# print(duplicate_num(list_1))
+print(duplicate_num(list_1))
 
 """№2
 В большой текстовой строке подсчитать количество встречаемых слов и вернуть 10 самых частых . 
@@ -29,7 +29,7 @@ def read_str(a: str) -> None:
     a = sorted(set(a.lower().split()), key=a.count, reverse=True)
     return (a)
 
-# print(*(read_str(str))[:10], sep='\n')
+print(*(read_str(str))[:10], sep='\n')
 
 """№3
 Создайте словарь со списком вещей для похода в качестве ключа и их массой в качестве значения. 
@@ -50,3 +50,4 @@ def backpack(a: int) -> list [str]:
             volume_backpack -= v
     return res
 print(*(backpack(a=0)), sep='\n')
+
