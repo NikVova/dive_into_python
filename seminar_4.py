@@ -47,8 +47,7 @@ def num_unicode(text: str) -> dict[str, int]:
         result[chr(i)] = i
     return(result)
 
-
-# print(num_unicode("12 19"))
+print(num_unicode("12 19"))
 """№4
 Функция получает на вход список чисел. 
 Отсортируйте его элементы in place без использования встроенных в язык сортировок. 
