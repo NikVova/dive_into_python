@@ -23,7 +23,7 @@ list_1 = [1, 2, 3, 2, 5, 1, 6, 2, 4, 1, 5, 8, 7, 9, 7, 0]
 или из документации к языку."""
 
 def read_str(a: str) -> None:
-    str = input('dd:')
+    str = input('Введите строку: ')
     print()
     a = re.sub(r'[^\w\s]', '', str)
     a = sorted(set(a.lower().split()), key=a.count, reverse=True)
@@ -35,3 +35,18 @@ def read_str(a: str) -> None:
 Создайте словарь со списком вещей для похода в качестве ключа и их массой в качестве значения. 
 Определите какие вещи влезут в рюкзак передав его максимальную грузоподъёмность. 
 Достаточно вернуть один допустимый вариант."""
+
+def backpack(a: int) -> list [str]:
+
+
+    volume_backpack = int(input('Введите объем рюкзака: '))
+    things_backpack = {'зажигалка': 2, 'компас': 5, 'фрукты': 10, 'рубашка': 4,
+      	'термос': 5, 'аптечка': 7, 'куртка': 6, 'бинокль': 4, 'удочка': 3,
+          'салфетки': 2, 'бутерброды': 10, 'палатка': 12, 'спальный мешок': 8, 'жвачка': 1}
+    res = list()
+    for k, v in things_backpack.items():
+        if v <= volume_backpack:
+            res.append(k)
+            volume_backpack -= v
+    return res
+print(*(backpack(a=0)), sep='\n')
