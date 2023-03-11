@@ -18,3 +18,12 @@ def transpose(list: int) -> list[int]:
 """№2 Напишите функцию принимающую на вход только ключевые параметры и возвращающую словарь, 
 где ключ - значение переданного аргумента, а значение - имя аргумента. 
 Если ключ не хешируем, используйте его строковое представление."""
+
+def key_param(**kwargs):
+    res_dict = {}
+    for key, values in kwargs.items():
+        res_dict[values] = key
+    return res_dict
+
+print(key_param(fifzika=45, match=46))
+
