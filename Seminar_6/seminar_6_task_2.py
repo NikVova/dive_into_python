@@ -1,6 +1,8 @@
 import random
 from sys import argv
 
+__all__ = ['more_less']
+
 
 def more_less(down: int = 0, up: int = 100, chanse: int = 5) -> bool:
     num = random.randint(down, up)
