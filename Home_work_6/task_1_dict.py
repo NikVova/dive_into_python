@@ -1,5 +1,6 @@
-__all__ = ['dict_mystery']
+"""Функция словарь, возвращает ключ и значение по номеру введенному пользователем"""
 
+__all__ = ['dict_mystery']
 
 def dict_mystery(num: int) -> list[str]:
     dict_of_mystery: dict[str, str] = {'Два конца, два кольца, посредине гвоздик?': 'ножницы',
