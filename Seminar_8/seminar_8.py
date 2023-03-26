@@ -17,7 +17,7 @@ def convert(file: str) -> None:
             dict_file[str_file[0].capitalize()] = float(str_file[1])
         print(dict_file)
 
-    with open('new_file_json.json', 'w', encoding='utf-8') as fj:
+    with open('../new_file_json.json', 'w', encoding='utf-8') as fj:
         json.dump(dict_file, fj, ensure_ascii=False, indent=2)
 
 
@@ -60,4 +60,4 @@ def user_access(name_file: str):
 
 
 if __name__ == '__main__':
-    user_access('indent.json')
+    user_access('../indent.json')
