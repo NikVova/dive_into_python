@@ -29,7 +29,6 @@ def deco_a(func: Callable):
 def deco_b(func: Callable):
     def wrapper():
         result = func()
-        print(result, 'deco_b')
         with open('3_numbers.json', 'w') as f:
             json.dump(result, f, indent=2)
 
