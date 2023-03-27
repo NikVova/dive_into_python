@@ -46,3 +46,6 @@ def dir_files(path):
 
 
 dir_files(path)
+s = ''
+
+s.
