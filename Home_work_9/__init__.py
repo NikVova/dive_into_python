@@ -1,2 +1,2 @@
 
-__all__ = ["home_work_9"]
+__all__ = ["home_work_9", 'Game']

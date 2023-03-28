@@ -14,6 +14,7 @@ __all__ = ['deco_a', 'deco_b', 'random', 'square']
 
 
 def deco_a(func: Callable):
+    """Чтение данных из csv файла, обработка данных"""
     def wrapper():
         with open('3_numbers.csv', 'r', newline='', encoding='utf-8') as file:
             a = csv.reader(file)
@@ -29,6 +30,7 @@ def deco_a(func: Callable):
 
 
 def deco_b(func: Callable):
+    """Запись результатов работы функции в json"""
     def wrapper():
         result = func()
         with open('3_numbers.json', 'w') as f:
@@ -39,6 +41,7 @@ def deco_b(func: Callable):
 @deco_b
 @deco_a
 def square(k: int, m: int, n: int) -> int:
+    """Нахождение корней квадратного уравнения """
     disc = abs(m * 2 - 4 * k * n)
     result = (- m + (disc * 0.5)) / (2 * k)
     result2 = (- m - (disc ** 0.5)) / (2 * k)
