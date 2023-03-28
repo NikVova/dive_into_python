@@ -20,8 +20,10 @@ def deco_a(func: Callable):
             result = []
             for rows in a:
                 [a, b, c] = int(rows[0]), int(rows[1]), int(rows[2])
-                result.append(func(a, b, c))
+                result.append(f'[{a},{b},{c}]:{func(a, b, c)}')
+
             return result
+
 
     return wrapper
 
@@ -40,7 +42,7 @@ def square(k: int, m: int, n: int) -> int:
     disc = abs(m * 2 - 4 * k * n)
     result = (- m + (disc * 0.5)) / (2 * k)
     result2 = (- m - (disc ** 0.5)) / (2 * k)
-    d = [f'{result}, {result2}]']
+    d = [f'{result}, {result2}']
     return d
 
 
