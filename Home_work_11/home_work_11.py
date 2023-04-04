@@ -29,6 +29,7 @@ class Matrix:
         numbers = []
         if len(self.m) != len(other.m[0]):
             return 'матрицы не согласованы'
+        else:
             for i in range(len(self.m)):
 
                 for j in range(len(self.m[0])):
@@ -37,7 +38,7 @@ class Matrix:
                     if len(numbers) == len(self.m):
                         result.append(numbers)
                         numbers = []
-            return result
+        return result
 
         # умножение
 
