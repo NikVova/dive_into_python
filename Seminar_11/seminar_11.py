@@ -16,11 +16,24 @@ class MyString(str):
         instance.author = author
         instance.time = time.time()
         return instance
+    def __init__(self, value, author):
+        """Инициализация"""
+        self.value = value
+        self.author = author
+
+    def __str__(self):
+        """Отображение для пользователя"""
+        return f'Класс записывает строку {self.value}, автора {self.author} и время{time.time()}'
+
+    def __repr__(self):
+        """Отображение для разработчика"""
+        return f'(String {self.value}, {self.author}, {time.time()})'
 
 
-# if __name__ == '__main__':
-#     s = MyString("jdfosdfiosdfis", "Tryry")
-#     print(s)
+if __name__ == '__main__':
+    s = MyString("jdfosdfiosdfis", "Tryry")
+    print(s)
+    print(repr(s))
 #     print(s.time)
 #     print(s.author)
 
