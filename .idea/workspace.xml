@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a638b0e5-c264-464a-b699-1de5023af06b" name="Changes" comment="" />
+    <list default="true" id="a638b0e5-c264-464a-b699-1de5023af06b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/new_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_6/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar_6/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_6/seminar_6_task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar_6/seminar_6_task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminar_4.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,32 +22,60 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Home_work_6/task_1_dict.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MEgeC87eF08sTkGx57Rx0Nhzgc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="GitStage.ChangesTree.GroupingKeys" value="directory&#10;module&#10;repository" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Home_work_10" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager">
-    <configuration name="home_work_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Разраб\ПВП\dive_into_python\Home_work_10" />
+      <recent name="D:\Разраб\ПВП\dive_into_python\Seminar_11" />
+      <recent name="D:\Разраб\ПВП\dive_into_python\Home_work_9\Game" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Разраб\ПВП\dive_into_python\Home_work_12" />
+      <recent name="D:\Разраб\ПВП\dive_into_python\Seminar_8" />
+      <recent name="D:\Разраб\ПВП\dive_into_python\Home_work_10" />
+      <recent name="D:\Разраб\ПВП\dive_into_python\Seminar_10" />
+      <recent name="D:\Разраб\ПВП\dive_into_python\Seminar_9" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.home_work_12">
+    <configuration name="create_csv" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="dive_into_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="D:\Разраб\ПВП\pythonProject_1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_work_12" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home_work_12/create_csv.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -48,9 +84,126 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="create_new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dive_into_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Разраб\ПВП\pythonProject_1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_work_12" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home_work_12/create_new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="home_work_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dive_into_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Разраб\ПВП\pythonProject_1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_work_12" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home_work_12/home_work_12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="home_work_12_v.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dive_into_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Разраб\ПВП\pythonProject_1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_work_12" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home_work_12/home_work_12_v.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seminar_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dive_into_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seminar_11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seminar_11/seminar_11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seminar_13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dive_into_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Разраб\ПВП\pythonProject_1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seminar_13" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seminar_13/seminar_13.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.create_csv" />
+      <item itemvalue="Python.seminar_11" />
+      <item itemvalue="Python.seminar_13" />
+      <item itemvalue="Python.home_work_12_v.2" />
+      <item itemvalue="Python.home_work_12" />
+      <item itemvalue="Python.create_new" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.home_work_1" />
+        <item itemvalue="Python.home_work_12" />
+        <item itemvalue="Python.home_work_12_v.2" />
+        <item itemvalue="Python.create_new" />
+        <item itemvalue="Python.seminar_13" />
+        <item itemvalue="Python.seminar_11" />
       </list>
     </recent_temporary>
   </component>
@@ -63,7 +216,354 @@
       <option name="presentableId" value="Default" />
       <updated>1677338249013</updated>
     </task>
+    <task id="LOCAL-00001" summary="add seminar_3">
+      <created>1677910160761</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677910160761</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add home_work and seminar">
+      <created>1678037097400</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678037097400</updated>
+    </task>
+    <task id="LOCAL-00003" summary="добавлено решение задачи 1, home_work_3">
+      <created>1678253251722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678253251722</updated>
+    </task>
+    <task id="LOCAL-00004" summary="добавлено решение задачи 2, home_work_3">
+      <created>1678286006263</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678286006263</updated>
+    </task>
+    <task id="LOCAL-00005" summary="добавлено решение задачи 3, home_work_3">
+      <created>1678296146805</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678296146805</updated>
+    </task>
+    <task id="LOCAL-00006" summary="добавлено решение задачи 3, home_work_3">
+      <created>1678296715848</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678296715848</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add home_work_4">
+      <created>1678296900937</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678296900937</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add seminar_3">
+      <created>1678296957052</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678296957052</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add seminar_5">
+      <created>1678515452016</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678515452016</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add home_work_4">
+      <created>1678517143796</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678517143796</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add home_work_4 task_2">
+      <created>1678521864389</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1678521864389</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add home_work_4_*">
+      <created>1678524277910</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678524277910</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add home_work_5 task_1">
+      <created>1678557067194</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1678557067194</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add home_work_5 task_3">
+      <created>1678601840446</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1678601840446</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add home_work_5 task_2">
+      <created>1678610722988</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1678610722988</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add seminar_6,6_2,6_4">
+      <created>1679117999877</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1679117999877</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add task_1_dict">
+      <created>1679251237938</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1679251237939</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add task_1_mystery">
+      <created>1679252788436</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1679252788436</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add homework_6">
+      <created>1679253086029</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1679253086030</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add homework_6_task_2">
+      <created>1679255213033</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1679255213033</updated>
+    </task>
+    <task id="LOCAL-00021" summary="del hhh">
+      <created>1679255329511</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1679255329511</updated>
+    </task>
+    <task id="LOCAL-00022" summary="add package Seminar_6">
+      <created>1679255483983</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1679255483983</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add file to seminar_6">
+      <created>1679255677030</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1679255677030</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add file to seminar_6">
+      <created>1679255958842</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1679255958842</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add seminar_8">
+      <created>1679504075565</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1679504075565</updated>
+    </task>
+    <task id="LOCAL-00026" summary="add homework_7">
+      <created>1679504185637</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1679504185637</updated>
+    </task>
+    <task id="LOCAL-00027" summary="add homework_7_task_2">
+      <created>1679512556846</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1679512556846</updated>
+    </task>
+    <task id="LOCAL-00028" summary="add Seminar_9">
+      <created>1679635163835</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1679635163835</updated>
+    </task>
+    <task id="LOCAL-00029" summary="add home_work_8">
+      <created>1679835022340</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1679835022341</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add home_work_9">
+      <created>1679932556905</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1679932556905</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add home_work_9_work_code">
+      <created>1679950078788</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1679950078788</updated>
+    </task>
+    <task id="LOCAL-00032" summary="add home_work_9_work_code+">
+      <created>1679950162992</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1679950162992</updated>
+    </task>
+    <task id="LOCAL-00033" summary="add home_work_9_task_2_game">
+      <created>1680032784594</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1680032784594</updated>
+    </task>
+    <task id="LOCAL-00034" summary="add home_work_9_function description">
+      <created>1680033290845</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1680033290845</updated>
+    </task>
+    <task id="LOCAL-00035" summary="add Seminar_11">
+      <created>1680448411262</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1680448411262</updated>
+    </task>
+    <task id="LOCAL-00036" summary="add Seminar_11">
+      <created>1680448429194</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1680448429194</updated>
+    </task>
+    <task id="LOCAL-00037" summary="add Seminar_10">
+      <created>1680448448957</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1680448448957</updated>
+    </task>
+    <task id="LOCAL-00038" summary="add Home_work_10_task_1">
+      <created>1680448478837</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1680448478837</updated>
+    </task>
+    <task id="LOCAL-00039" summary="add Home_work_10_task_2">
+      <created>1680451503444</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1680451503444</updated>
+    </task>
+    <task id="LOCAL-00040" summary="add Seminar_12">
+      <created>1680548400029</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1680548400029</updated>
+    </task>
+    <task id="LOCAL-00041" summary="add Home_work_11_task_1">
+      <created>1680633555619</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1680633555619</updated>
+    </task>
+    <task id="LOCAL-00042" summary="add Home_work_11_task_1">
+      <created>1680633895166</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1680633895166</updated>
+    </task>
+    <task id="LOCAL-00043" summary="add Home_work_11_task_2_seminar_11">
+      <created>1680634543248</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1680634543248</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add seminar_6,6_2,6_4" />
+    <MESSAGE value="add task_1_dict" />
+    <MESSAGE value="add task_1_mystery" />
+    <MESSAGE value="add homework_6" />
+    <MESSAGE value="add homework_6_task_2" />
+    <MESSAGE value="del hhh" />
+    <MESSAGE value="add package Seminar_6" />
+    <MESSAGE value="add file to seminar_6" />
+    <MESSAGE value="add seminar_8" />
+    <MESSAGE value="add homework_7" />
+    <MESSAGE value="add homework_7_task_2" />
+    <MESSAGE value="add Seminar_9" />
+    <MESSAGE value="add home_work_8" />
+    <MESSAGE value="add home_work_9" />
+    <MESSAGE value="add home_work_9_work_code" />
+    <MESSAGE value="add home_work_9_work_code+" />
+    <MESSAGE value="add home_work_9_task_2_game" />
+    <MESSAGE value="add home_work_9_function description" />
+    <MESSAGE value="add Seminar_11" />
+    <MESSAGE value="add Seminar_10" />
+    <MESSAGE value="add Home_work_10_task_1" />
+    <MESSAGE value="add Home_work_10_task_2" />
+    <MESSAGE value="add Seminar_12" />
+    <MESSAGE value="add Home_work_11_task_1" />
+    <MESSAGE value="add Home_work_11_task_2_seminar_11" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Home_work_11_task_2_seminar_11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
