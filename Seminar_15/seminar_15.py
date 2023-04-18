@@ -138,5 +138,5 @@ def data_text(text: str) -> datetime:
             if count == count_week:
                 return date
 
-
+ё
 print(data_text('3-я среда мая'))
